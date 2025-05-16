@@ -5,7 +5,8 @@ Analytics Engineer ELT Pipeline
 PayPal developer 
 
 ### Extract
-- AirByte (open source)
+- AirByte (open source)  
+[https://cloud.airbyte.com/workspaces/ba0948b3-0a23-4a85-a943-fc457653ef52/connections](https://cloud.airbyte.com/workspaces/ba0948b3-0a23-4a85-a943-fc457653ef52/connections)
 ---
 ### Load
 - Google BigQuery (sql, Setting up, loading data, basic querying)
